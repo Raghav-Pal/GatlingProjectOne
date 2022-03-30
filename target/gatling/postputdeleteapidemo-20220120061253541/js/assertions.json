@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.com.gatling.tests.api.PostPutDeleteAPIDemo",
+  "simulationId": "postputdeleteapidemo",
+  "start": 1642659173541,
+  "description": "Demo 1",
+  "scenarios": ["Create User"],
+  "assertions": [
+
+  ]
+}

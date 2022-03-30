@@ -1,0 +1,3 @@
+RUN	test.scala.com.gatling.tests.FeederDemo	feederdemo	1648628635023	demo	3.6.1
+USER	Feeders Demo	START	1648628635166
+USER	Feeders Demo	END	1648628635196

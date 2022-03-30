@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.FeederDemo3	feederdemo3	1648529852492	333	3.6.1
+USER	Scenario Name	START	1648529854621
+ERROR	Request: Failed to build request: No baseUrl defined but provided url is relative : #{name} 	1648529854639
+USER	Scenario Name	END	1648529861654

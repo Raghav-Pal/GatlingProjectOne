@@ -1,0 +1,11 @@
+RUN	com.gatling.tests.RecordedSimulation	recordedsimulation	1640659495738	TestRun	3.6.1
+USER	RecordedSimulation	START	1640659497613
+REQUEST		ComputersDatabasePage	1640659497648	1640659497685	OK	 
+REQUEST		NewComputersPage	1640659501821	1640659501830	OK	 
+REQUEST		CreateNewComputer	1640659523119	1640659523129	OK	 
+REQUEST		CreateNewComputer Redirect 1	1640659523190	1640659523237	OK	 
+REQUEST		FilterComputer	1640659534267	1640659534273	OK	 
+REQUEST		SelectFirstComputer	1640659544286	1640659544291	OK	 
+REQUEST		GetComputerDetails	1640659547321	1640659547326	OK	 
+ERROR	DeleteComputer: Failed to build request: No attribute named 'restuls1' is defined 	1640659549331
+USER	RecordedSimulation	END	1640659549335

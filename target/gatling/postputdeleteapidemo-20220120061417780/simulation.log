@@ -1,0 +1,16 @@
+RUN	test.scala.com.gatling.tests.api.PostPutDeleteAPIDemo	postputdeleteapidemo	1642659257780	Demo 2	3.6.1
+USER	Create User	START	1642659259009
+REQUEST		create user req	1642659259058	1642659259302	KO	jsonPath($.name).find.is(Morpheus), but actually found John
+USER	Create User	END	1642659259387
+USER	Create User	START	1642659259938
+REQUEST		create user req	1642659259939	1642659260182	KO	jsonPath($.name).find.is(Morpheus), but actually found John
+USER	Create User	END	1642659260186
+USER	Create User	START	1642659260937
+REQUEST		create user req	1642659260938	1642659261145	KO	jsonPath($.name).find.is(Morpheus), but actually found John
+USER	Create User	END	1642659261148
+USER	Create User	START	1642659261870
+REQUEST		create user req	1642659261871	1642659262087	KO	jsonPath($.name).find.is(Morpheus), but actually found John
+USER	Create User	END	1642659262103
+USER	Create User	START	1642659262870
+REQUEST		create user req	1642659262871	1642659263100	KO	jsonPath($.name).find.is(Morpheus), but actually found John
+USER	Create User	END	1642659263105

@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.FeederDemo1",
+  "simulationId": "feederdemo1",
+  "start": 1648513062711,
+  "description": "Test 1",
+  "scenarios": ["FeederDemo1"],
+  "assertions": [
+
+  ]
+}

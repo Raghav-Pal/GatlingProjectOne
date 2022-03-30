@@ -1,0 +1,16 @@
+RUN	test.scala.com.gatling.tests.api.PostPutDeleteAPIDemo	postputdeleteapidemo	1642659484122	Demo 3	3.6.1
+USER	Create User	START	1642659485421
+REQUEST		create user req	1642659485476	1642659485725	KO	jsonPath($.name).find.is(John), but actually found Raghav
+USER	Create User	END	1642659485809
+USER	Create User	START	1642659486401
+REQUEST		create user req	1642659486403	1642659486628	KO	jsonPath($.name).find.is(John), but actually found Raghav
+USER	Create User	END	1642659486632
+USER	Create User	START	1642659487402
+REQUEST		create user req	1642659487403	1642659487613	KO	jsonPath($.name).find.is(John), but actually found Raghav
+USER	Create User	END	1642659487615
+USER	Create User	START	1642659488332
+REQUEST		create user req	1642659488333	1642659488449	KO	jsonPath($.name).find.is(John), but actually found Raghav
+USER	Create User	END	1642659488452
+USER	Create User	START	1642659489332
+REQUEST		create user req	1642659489333	1642659489557	KO	jsonPath($.name).find.is(John), but actually found Raghav
+USER	Create User	END	1642659489559

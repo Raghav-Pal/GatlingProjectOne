@@ -1,0 +1,3 @@
+RUN	com.gatling.tests.FeederDemo2	feederdemo2	1648529261397	two	3.6.1
+USER	Feeder Demo	START	1648529261509
+USER	Feeder Demo	END	1648529261517

@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.com.gatling.tests.FeederDemo1",
+  "simulationId": "feederdemo1",
+  "start": 1648625577949,
+  "description": "345345",
+  "scenarios": ["Wow"],
+  "assertions": [
+
+  ]
+}
